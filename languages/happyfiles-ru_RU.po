@@ -1,0 +1,642 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HappyFiles Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-16 15:57+0000\n"
+"PO-Revision-Date: 2021-02-16 16:40+0000\n"
+"Last-Translator: \n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6.1\n"
+"X-Domain: happyfiles"
+
+#: includes/admin/admin-screen-settings.php:162
+#, php-format
+msgid "%s folders and %s attachments found to import."
+msgstr "найдены папки %s и вложения %s для импорта."
+
+#: includes/import.php:363 includes/import.php:479
+#, php-format
+msgid "%s folders imported and %s attachments categorized."
+msgstr "импортированные папки %s и классифицированные вложения %s."
+
+#: includes/pro.php:214 includes/pro.php:216 includes/setup.php:155
+#: includes/setup.php:157
+msgid "Add New Category"
+msgstr "Добавить новую категорию"
+
+#: includes/helpers.php:148
+#, php-format
+msgid "All %s"
+msgstr "Все %s"
+
+#: includes/pro.php:377
+#, php-format
+msgid "All %s Categories"
+msgstr "все %s категории"
+
+#: includes/admin.php:449
+msgid "All Categories"
+msgstr "Все категории"
+
+#: includes/helpers.php:144
+msgid "All Files"
+msgstr "Все файлы"
+
+#: includes/pro.php:186 includes/admin/admin-screen-settings.php:129
+msgid "Allow SVG Files"
+msgstr "Разрешить SVG файлы"
+
+#: includes/admin/admin-screen-settings.php:113
+msgid "Alternative Count"
+msgstr "Альтернативный Подсчет"
+
+#: includes/pro.php:194
+msgid ""
+"Although HappyFiles sanitizes your SVG file on upload, please only upload "
+"SVG files from trusted sources as they can contain and execute malicious XML "
+"code."
+msgstr ""
+"Хотя HappyFiles обезопасит ваш SVG-файл при загрузке, пожалуйста, загружайте "
+"только SVG-файлы из надежных источников, так как они могут содержать и "
+"выполнять вредоносный XML-код."
+
+#: includes/setup.php:89
+msgid ""
+"Are you sure you want to delete all your HappyFiles folders and settings "
+"data?"
+msgstr ""
+"Вы уверены, что хотите удалить все свои папки HappyFiles и данные настроек?"
+
+#: includes/admin/admin-screen-settings.php:68
+msgid "Assign multiple categories"
+msgstr "Назначить нескольких категорий"
+
+#: includes/setup.php:140
+msgid "Attachment Page"
+msgstr "Страница Вложения"
+
+#: includes/feedback.php:25
+msgid ""
+"Before you deactivate HappyFiles could you let us know why? So we can "
+"incorporate your feedback. Thank you!"
+msgstr ""
+"Прежде чем деактивировать HappyFiles, не могли бы вы сообщить нам почему? "
+"Таким образом, мы можем учесть ваши отзывы. Спасибо!"
+
+#: includes/admin.php:1154
+msgid "Cancel"
+msgstr "отмена"
+
+#: includes/setup.php:105
+msgid "Caption"
+msgstr "Заголовок"
+
+#: includes/admin.php:1098 includes/setup.php:97
+msgid "Categories"
+msgstr "Категории"
+
+#: includes/pro.php:212 includes/pro.php:213 includes/setup.php:153
+#: includes/setup.php:154
+msgid "Category"
+msgstr "Категория"
+
+#: includes/admin/admin-screen-settings.php:37
+#: includes/admin/admin-screen-settings.php:40
+msgid "Category Editing"
+msgstr "Редактировать категорию"
+
+#: includes/admin.php:1146
+msgid "Category Limit Reached!"
+msgstr "Предел категории достигнут!"
+
+#: includes/pro.php:218 includes/setup.php:159
+msgid "Category not found"
+msgstr "Категория не найдена"
+
+#: includes/pro.php:219 includes/setup.php:160
+msgid "Category not found in trash"
+msgstr "Категория не найдена в корзине"
+
+#: includes/admin.php:1141
+msgid ""
+"Click the \"Create\" button above to add your first category. Then start to "
+"drag and drop files into your category."
+msgstr ""
+"Нажмите кнопку \"Создать\" выше, чтобы добавить свою первую категорию. Затем "
+"начните перетаскивать файлы в свою категорию."
+
+#. Author of the plugin
+msgid "Codeer"
+msgstr "Кодировщик"
+
+#: includes/setup.php:95
+msgid "Columns"
+msgstr "Колонки"
+
+#: includes/admin.php:1114 includes/admin.php:1155
+msgid "Create"
+msgstr "Создать"
+
+#: includes/admin.php:1176
+msgid "Create Category"
+msgstr "Создать категорию"
+
+#: includes/setup.php:104
+msgid "Crop images"
+msgstr "Обрезка изображений"
+
+#: includes/pro.php:143
+msgid "Deactivate License"
+msgstr "Деактивировать Лицензию"
+
+#: includes/admin.php:1124
+msgid "Delete"
+msgstr "Удалить"
+
+#: includes/admin.php:1178
+msgid "Delete Category"
+msgstr "Удалить категорию"
+
+#: includes/admin/admin-screen-settings.php:140
+msgid "Delete Plugin Data"
+msgstr "Удалить данные плагина"
+
+#: includes/admin/admin-screen-settings.php:169
+msgid "Delete plugin data"
+msgstr "Delete plugin data"
+
+#: includes/feedback.php:40
+#, php-format
+msgid "Did you watch the official %s?"
+msgstr "Вы смотрели официальные %s?"
+
+#: includes/admin/admin-screen-settings.php:98
+msgid "Disable AJAX (List View)"
+msgstr "Отключить AJAX "
+
+#: includes/admin/admin-screen-settings.php:104
+msgid "Disable AJAX refresh in list view (media library)"
+msgstr "Отключить обновление AJAX в виде списка (медиа галерея)"
+
+#: includes/setup.php:93
+msgid "Display your images in a beautiful gallery."
+msgstr "Отобразить ваши изображения в красивой галерее."
+
+#: includes/setup.php:86
+msgid ""
+"Do you want to delete this media category? This only deletes the taxonomy "
+"term in your database. Your files are safe."
+msgstr ""
+"Вы хотите удалить эту категорию носителей? Это только удаляет термин "
+"таксономии в вашей базе данных. Ваши файлы в безопасности."
+
+#: includes/pro.php:215 includes/setup.php:156
+msgid "Edit Category"
+msgstr "Редактировать категорию"
+
+#: includes/admin/admin-screen-settings.php:119
+msgid "Enable alternative count calculation"
+msgstr "Включить альтернативный расчет количества"
+
+#: includes/admin/admin-screen-settings.php:74
+msgid "Enable multiple categories"
+msgstr "Включить несколько категорий"
+
+#: includes/pro.php:191
+msgid "Enable SVG Upload, Preview & Sanitization"
+msgstr "Включить загрузку SVG, Предварительный просмотр и фильтрация"
+
+#: includes/admin/admin-screen-settings.php:89
+msgid "Enable to remove an item from all categories"
+msgstr "Включить удаление элемента из всех категорий"
+
+#: includes/pro.php:488
+msgid "Error: License key could not be deleted."
+msgstr "Ошибка: Лицензионный ключ не может быть удален."
+
+#: includes/admin.php:788
+msgid "Error: No item ID(s) passed."
+msgstr "Ошибка: Идентификатор элемента(ов) не передан."
+
+#: includes/admin.php:780
+msgid "Error: No term ID passed."
+msgstr "Ошибка: Идентификатор термина не пройден."
+
+#: includes/setup.php:136
+msgid "Full size"
+msgstr "Полный размер"
+
+#: includes/setup.php:94
+msgid "Gallery Settings"
+msgstr "Настройки галереи"
+
+#: includes/admin/admin-screen-settings.php:17
+msgid "General"
+msgstr "Общие"
+
+#: includes/admin.php:1148
+msgid "Get HappyFiles Pro"
+msgstr "Получить HappyFiles Pro"
+
+#: includes/admin.php:66
+msgid "Go Pro"
+msgstr "Получить PRO весию"
+
+#: includes/admin.php:160
+msgid "Go to media library"
+msgstr "Перейти в медиа галерею"
+
+#: includes/pro.php:147
+msgid "HappyFiles account"
+msgstr "Аккаунт HappyFiles"
+
+#: includes/admin.php:294
+msgid "HappyFiles data and options deleted."
+msgstr "Данные HappyFiles и параметры удалены."
+
+#: includes/setup.php:92
+msgid "HappyFiles Gallery"
+msgstr "HappyFiles галерея"
+
+#. Name of the plugin
+msgid "HappyFiles Pro"
+msgstr "HappyFiles Pro"
+
+#: includes/admin.php:321 includes/admin/admin-screen-settings.php:14
+msgid "HappyFiles Settings"
+msgstr "HappyFiles настройки"
+
+#: includes/setup.php:98
+msgid "Hold down CTRL/CMD to select multiple categories."
+msgstr "Удерживая нажатой клавишу CTRL/CMD, выберите несколько категорий."
+
+#. Author URI of the plugin
+msgid "https://codeer.io"
+msgstr "https://codeer.io"
+
+#. URI of the plugin
+msgid "https://happyfiles.io"
+msgstr "https://happyfiles.io"
+
+#: includes/feedback.php:39
+msgid "I don't know how to use this plugin"
+msgstr "Я не знаю, как использовать этот плагин"
+
+#: includes/feedback.php:34
+msgid "I found a better plugin"
+msgstr "Я нашел плагин получше"
+
+#: includes/feedback.php:30
+msgid "I no longer need this plugin"
+msgstr "Мне больше не нужен этот плагин"
+
+#: includes/feedback.php:48
+msgid "I upgraded to HappyFiles Pro for unlimited media categories :)"
+msgstr "Я обновился до HappyFiles Pro для неограниченных категорий медиа :)"
+
+#: includes/setup.php:99
+msgid "Image size"
+msgstr "Размер изображения"
+
+#: includes/admin/admin-screen-settings.php:18
+#: includes/admin/admin-screen-settings.php:168
+msgid "Import"
+msgstr "Импорт"
+
+#: includes/admin.php:117
+msgid "Import/delete plugin data"
+msgstr "Импорт/удаление данных плагина"
+
+#: includes/setup.php:103
+msgid "Include child categories"
+msgstr "Включить дочерние категории"
+
+#: includes/admin.php:1084
+msgid "Invalid sidebar width."
+msgstr "Недопустимая ширина боковой панели."
+
+#: includes/feedback.php:44
+msgid "It's just a temporary deactivation"
+msgstr "Это просто временная деактивация"
+
+#: includes/setup.php:135
+msgid "Large"
+msgstr "Большой"
+
+#: includes/admin.php:159
+#, php-format
+msgid "Let's create your first media category: %s"
+msgstr "Давайте создадим вашу первую медиа-категорию: %s"
+
+#: includes/pro.php:486
+msgid "License key has been deleted successfully."
+msgstr "Лицензионный ключ был успешно удален."
+
+#: includes/setup.php:106
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: includes/setup.php:107
+msgid "Lightbox: Fullscreen"
+msgstr "Lightbox: Fullscreen"
+
+#: includes/setup.php:108
+msgid "Lightbox: Thumbnails"
+msgstr "Lightbox: Thumbnails"
+
+#: includes/setup.php:109
+msgid "Lightbox: Zoom"
+msgstr "Lightbox: Zoom"
+
+#: includes/setup.php:100
+msgid "Link to"
+msgstr "Ссылка на"
+
+#: includes/admin.php:116
+#, php-format
+msgid ""
+"Looks like you've used another media folders plugin before HappyFiles. %s"
+msgstr "Похоже, вы использовали еще один плагин медиа папок до HappyFiles. %s"
+
+#: includes/setup.php:96
+msgid "Max. number of images"
+msgstr "Максимальное количество изображений"
+
+#: includes/setup.php:141
+msgid "Media File"
+msgstr "Медиафайлы"
+
+#: includes/setup.php:134
+msgid "Medium"
+msgstr "Средний"
+
+#: includes/setup.php:82
+msgid "Move"
+msgstr "Переместить"
+
+#: includes/admin.php:1153
+msgid "New category name"
+msgstr "Новое имя категории"
+
+#: includes/admin.php:680 includes/admin.php:716
+msgid "No category name or term ID provided."
+msgstr "Имя категории или идентификатор термина не указаны."
+
+#: includes/gallery.php:228
+msgid "No category selected."
+msgstr "Категория не выбрана."
+
+#: includes/admin/admin-screen-settings.php:171
+msgid "No folders found to import."
+msgstr "Папки для импорта не найдены."
+
+#: includes/admin.php:298
+msgid "No HappyFiles data to delete."
+msgstr "Нет данных HappyFiles для удаления."
+
+#: includes/setup.php:142
+msgid "None"
+msgstr "Ничего"
+
+#: includes/admin.php:208 includes/admin.php:219 includes/admin.php:230
+msgid "Not an admin"
+msgstr "Не администратор"
+
+#: includes/pro.php:139
+msgid "One Click Updates"
+msgstr "Обновления в один клик"
+
+#: includes/admin/admin-screen-settings.php:62
+msgid ""
+"Only selected user roles can create, rename, delete, arrange and upload to "
+"categories. Administrators always have full control over file categories."
+msgstr ""
+"Только выбранные роли пользователей могут создавать, переименовывать, "
+"удалять, упорядочивать и загружать в категории. Администраторы всегда имеют "
+"полный контроль над категориями файлов."
+
+#: includes/pro.php:480
+msgid "Only the site admin can deactivate the HappyFiles PRO license."
+msgstr ""
+"Только администратор сайта может деактивировать лицензию HappyFiles PRO."
+
+#: includes/admin.php:1200
+msgid "Optional: Assign a category to your uploaded file(s):"
+msgstr "Необязательно: Назначьте категорию загруженному файлу(файлам):"
+
+#: includes/setup.php:102
+msgid "Order"
+msgstr "Заказ"
+
+#: includes/setup.php:101
+msgid "Order by"
+msgstr "Заказать по"
+
+#. Description of the plugin
+msgid ""
+"Organize your WordPress media files in folders/categories via drag and drop."
+msgstr ""
+"Организуйте свои медиафайлы WordPress в папки/категории с помощью "
+"перетаскивания."
+
+#: includes/feedback.php:52
+msgid "Other"
+msgstr "Другое"
+
+#: includes/pro.php:147
+#, php-format
+msgid ""
+"Paste your license key from your %s in here to enable one-click plugin "
+"updates from your WordPress dashboard."
+msgstr ""
+"Вставьте лицензионный ключ из вашего %s сюда, чтобы включить обновление "
+"плагинов одним щелчком мыши с панели управления WordPress."
+
+#: includes/admin.php:625 includes/setup.php:83 includes/setup.php:84
+msgid "Please enter a category name."
+msgstr "Пожалуйста введите имя категории"
+
+#: includes/setup.php:88
+msgid "Please finish renaming your media category first."
+msgstr "Пожалуйста, сначала закончите переименовывать свою медиа-категорию."
+
+#: includes/setup.php:85
+msgid "Please select a category to rename."
+msgstr "Пожалуйста, выберите категорию для переименования."
+
+#: includes/setup.php:87
+msgid "Please select a media category to delete."
+msgstr "Пожалуйста, выберите категорию носителей для удаления."
+
+#: includes/feedback.php:53
+msgid "Please share the reason."
+msgstr "Пожалуйста, поделитесь причиной."
+
+#: includes/pro.php:157 includes/admin/admin-screen-settings.php:31
+msgid "Post Types"
+msgstr "Тип постов"
+
+#: includes/feedback.php:23
+msgid "Quick Feedback"
+msgstr "Быстрая обратная связь"
+
+#: includes/admin.php:189
+msgid "rating it"
+msgstr "Оценка этого"
+
+#: includes/admin/admin-screen-settings.php:83
+msgid "Remove from all categories"
+msgstr "Удалить из всех категорий"
+
+#: includes/admin.php:1119
+msgid "Rename"
+msgstr "Перимен."
+
+#: includes/admin.php:1177
+msgid "Rename Category"
+msgstr "Переименовать категорию"
+
+#: includes/admin/admin-screen-settings.php:139
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: includes/pro.php:217 includes/setup.php:158
+msgid "Search Category"
+msgstr "Найти категорию"
+
+#: includes/admin/admin-screen-settings.php:77
+msgid ""
+"Set this option to enable assigning multiple categories. If disabled only a "
+"single category can be assigned for each item."
+msgstr ""
+"Установите этот параметр, чтобы включить назначение нескольких категорий. "
+"Если этот параметр отключен, то для каждого элемента может быть назначена "
+"только одна категория."
+
+#: includes/admin/admin-screen-settings.php:107
+msgid ""
+"Set when you experience problems using plugins alongside HappyFiles that "
+"alter the media library list view (such as Imagify)."
+msgstr ""
+"Устанавливается при возникновении проблем с использованием плагинов наряду с "
+"HappyFiles, которые изменяют представление списка медиатек (например, "
+"Imagify)."
+
+#: includes/admin/admin-screen-settings.php:122
+msgid ""
+"Set when you experience problems using plugins alongside HappyFiles that can "
+"alter your media files (such as WPML). Requires more queries."
+msgstr ""
+"Установите, когда у вас возникнут проблемы с использованием плагинов наряду "
+"с HappyFiles, которые могут изменять ваши медиафайлы (например, WPML). "
+"Требуется больше запросов."
+
+#: includes/admin.php:63
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/admin.php:1089
+msgid "Sidebar width updated."
+msgstr "Обновлена ширина боковой панели."
+
+#: includes/feedback.php:78
+msgid "Skip &amp; Deactivate"
+msgstr "Пропустить и Деактивировать"
+
+#: includes/admin.php:1104
+msgid "Sort ascending"
+msgstr "Сортировка по возрастанию"
+
+#: includes/admin.php:1105
+msgid "Sort descending"
+msgstr "Сортировка по убыванию"
+
+#: includes/feedback.php:77
+msgid "Submit &amp; Deactivate"
+msgstr "Отправить и Деактивировать"
+
+#: includes/gallery.php:252
+msgid "The selected category has no images."
+msgstr "Выбранная категория не имеет изображений."
+
+#: includes/svg.php:115
+msgid ""
+"This file couldn't be sanitized for security reasons and wasn't uploaded."
+msgstr ""
+"Этот файл не мог быть очищен по соображениям безопасности и не был загружен."
+
+#: includes/admin.php:1147
+msgid ""
+"This free version of HappyFiles allows you to create and manage up to 10 "
+"media categories. Get HappyFiles Pro for unlimited media categories and "
+"premium support."
+msgstr ""
+"Эта бесплатная версия HappyFiles позволяет создавать и управлять до 10 медиа-"
+"категорий. Получите HappyFiles Pro для неограниченного количества медиа-"
+"категорий и премиум-поддержки."
+
+#: includes/setup.php:133
+msgid "Thumbnail"
+msgstr "Обложка"
+
+#: includes/admin.php:450 includes/admin.php:946 includes/admin.php:1207
+#: includes/helpers.php:182 includes/pro.php:378
+msgid "Uncategorized"
+msgstr "Без категории"
+
+#: includes/admin/admin-screen-settings.php:32
+#, php-format
+msgid ""
+"Upgrade to %s to categorize posts, pages, custom post types, WooCommerce "
+"products/orders/coupons."
+msgstr ""
+"Обновите до %s, чтобы классифицировать сообщения, страницы, пользовательские "
+"типы сообщений, продукты WooCommerce/заказы/купоны."
+
+#: includes/admin/admin-screen-settings.php:130
+#, php-format
+msgid "Upgrade to %s to enable SVG uploads, sanitization, and preview."
+msgstr ""
+"Этот файл не мог быть очищен по соображениям безопасности и не был загружен."
+
+#: includes/feedback.php:40
+msgid "video walkthrough"
+msgstr "видео пошаговое руководство"
+
+#: includes/import.php:482
+msgid "View media library"
+msgstr "Просмотр медиафайлов"
+
+#: includes/feedback.php:35
+msgid "What is the name of this plugin?"
+msgstr "Как называется этот плагин?"
+
+#: includes/admin/admin-screen-settings.php:92
+msgid ""
+"When removing a category from an item all other categories of this item will "
+"be removed. If disabled only the open category will be removed from an item."
+msgstr ""
+"При удалении категории из элемента будут удалены все остальные категории "
+"этого элемента. Если этот параметр отключен, то из элемента будет удалена "
+"только открытая категория."
+
+#: includes/admin.php:188
+#, php-format
+msgid ""
+"Wow, time flies. You have been using HappyFiles for quite a while now. If "
+"you like the plugin, please consider %s to help others discover it too."
+msgstr ""
+"Ничего себе, время летит. Вы используете HappyFiles уже вполне долгое время. "
+"Если вам нравится плагин, пожалуйста, подумайте о %s, чтобы рассказать "
+"другим людям так же пользоваться им."
+
+#: includes/admin.php:1132
+msgid "You can view, but not edit media categories."
+msgstr "Вы можете просматривать, но не редактировать категории мультимедиа."
